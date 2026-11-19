@@ -12,9 +12,9 @@ Après plusieurs années dans le tourisme (animation, management d'équipe, resp
 
 ## 🚀 Projets
 
-| Projet | Description | Technos |
-| --- | --- | --- |
-| [sportcom-boxe](https://github.com/CoreyLaurent/sportcom-boxe) | Site web Boxe Sport.com, réalisé en binôme dans le cadre du BTS SIO | HTML, CSS |
+| Projet | Description | Technos | Démo |
+| --- | --- | --- | --- |
+| [sportcom-boxe](https://github.com/CoreyLaurent/sportcom-boxe) | Site vitrine de la boutique fictive Sport.com (rayon boxe), réalisé en binôme dans le cadre du BTS SIO | HTML, CSS, responsive | [Voir le site](https://coreylaurent.github.io/sportcom-boxe/) |
 
 ## 🎯 Objectifs
 
